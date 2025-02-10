@@ -1,0 +1,2 @@
+this is for testing porpuses so i can
+use and learn git commands for terminal
